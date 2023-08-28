@@ -64,7 +64,7 @@ ol {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  padding-top: 14px;
+  padding-top: 16px;
   gap: 40px;
 }
 
